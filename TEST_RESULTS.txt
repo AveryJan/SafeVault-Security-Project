@@ -1,0 +1,14 @@
+test_admin_can_access_admin_after_local_provisioning (test_security.SafeVaultSecurityTests.test_admin_can_access_admin_after_local_provisioning) ... ok
+test_auth_required_and_wrong_password (test_security.SafeVaultSecurityTests.test_auth_required_and_wrong_password) ... ok
+test_invalid_json_and_body_limit (test_security.SafeVaultSecurityTests.test_invalid_json_and_body_limit) ... ok
+test_logout_revokes_token (test_security.SafeVaultSecurityTests.test_logout_revokes_token) ... ok
+test_owner_isolation_and_parameterized_inserts (test_security.SafeVaultSecurityTests.test_owner_isolation_and_parameterized_inserts) ... ok
+test_registration_validation_rejects_role_escalation (test_security.SafeVaultSecurityTests.test_registration_validation_rejects_role_escalation) ... ok
+test_sql_injection_login_is_rejected (test_security.SafeVaultSecurityTests.test_sql_injection_login_is_rejected) ... ok
+test_user_cannot_access_admin (test_security.SafeVaultSecurityTests.test_user_cannot_access_admin) ... ok
+test_xss_html_escaped_and_csp (test_security.SafeVaultSecurityTests.test_xss_html_escaped_and_csp) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.878s
+
+OK
